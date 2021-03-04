@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Google Clone
+An Google clone built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Author
+Mustafa Syahmi (mussyahmi)
+
+# Demo
+The app is deployed using Firebase at https://clone-429a5.web.app/
 
 ## Available Scripts
 
